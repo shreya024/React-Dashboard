@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Dashboard/static/css/main.dd2fade2.chunk.css",
+    "main.js": "/React-Dashboard/static/js/main.fefee3ba.chunk.js",
+    "main.js.map": "/React-Dashboard/static/js/main.fefee3ba.chunk.js.map",
+    "runtime-main.js": "/React-Dashboard/static/js/runtime-main.6b6b6697.js",
+    "runtime-main.js.map": "/React-Dashboard/static/js/runtime-main.6b6b6697.js.map",
+    "static/css/2.21faa3a9.chunk.css": "/React-Dashboard/static/css/2.21faa3a9.chunk.css",
+    "static/js/2.a51b5ac9.chunk.js": "/React-Dashboard/static/js/2.a51b5ac9.chunk.js",
+    "static/js/2.a51b5ac9.chunk.js.map": "/React-Dashboard/static/js/2.a51b5ac9.chunk.js.map",
+    "index.html": "/React-Dashboard/index.html",
+    "static/css/2.21faa3a9.chunk.css.map": "/React-Dashboard/static/css/2.21faa3a9.chunk.css.map",
+    "static/css/main.dd2fade2.chunk.css.map": "/React-Dashboard/static/css/main.dd2fade2.chunk.css.map",
+    "static/js/2.a51b5ac9.chunk.js.LICENSE.txt": "/React-Dashboard/static/js/2.a51b5ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b6b6697.js",
+    "static/css/2.21faa3a9.chunk.css",
+    "static/js/2.a51b5ac9.chunk.js",
+    "static/css/main.dd2fade2.chunk.css",
+    "static/js/main.fefee3ba.chunk.js"
+  ]
+}
